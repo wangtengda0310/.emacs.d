@@ -25,3 +25,6 @@
 (add-hook 'lisp-mode-hook             #'enable-paredit-mode)
 (add-hook 'lisp-interaction-mode-hook #'enable-paredit-mode)
 (add-hook 'scheme-mode-hook           #'enable-paredit-mode)
+
+(defvar java8url "http://docs.oracle.com/javase/8/docs/")
+(defvar javaurl java8url)
