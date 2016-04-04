@@ -13,6 +13,11 @@
      "http://mumble.net/~campbell/emacs/paredit-beta.el"
      (concat lisp-storage "paredit-beta.el")))
 
+(if (not (file-exists-p (concat lisp-storage "bencode.el")))
+    (save-url-to-file
+     "https://raw.githubusercontent.com/emacsmirror/bencode/master/bencode.el"
+     (concat lisp-storage "bencode.el")))
+
 (add-to-list 'load-path "~/.emacs.d/lisp")
 
 ;https://www.emacswiki.org/emacs/ParEdit
