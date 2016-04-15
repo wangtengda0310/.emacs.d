@@ -1,0 +1,26 @@
+* blog
+** [[http://evi1cg.me/][一个黑客技术的blog]]
+** [[http://zhan.renren.com/linuxzhouxin][Linux门徒]]
+   投身Linux的海洋，拥抱真正的IT技术，使自己成为一段BOSS代码！
+
+* great fire wall
+** twister
+   http://twisterio.com
+   
+   http://twister.net.co/
+** just proxy (chrome plugin)
+   http://goo.gl/0qEKSs
+
+* 不知道的东西
+** hash
+   *MurmurHash* 是一种非加密型哈希函数，适用于一般的哈希检索操作。由Austin Appleby在2008年发明，并出现了多个变种，都已经发布到了公有领域(public domain)。与其它流行的哈希函数相比，对于规律性较强的key，MurmurHash的随机分布特征表现更良好。
+   *Merkle Damgard*
+** p2p
+* 书
+** 
+   [[http://www.tingyun.com/][听云]]
+   [[http://mycat.io/][mycat分布式mysql中间件]]
+   [[https://xiaolan.me/obfsproxy.html][使用obfsproxy混淆任意流量]]
+* uml
+  https://draw.io
+  https://www.websequencediagrams.com/
