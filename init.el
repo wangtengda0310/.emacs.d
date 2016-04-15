@@ -15,8 +15,10 @@
 
 (if (not (file-exists-p (concat lisp-storage "bencode.el")))
     (save-url-to-file
-     "https://raw.githubusercontent.com/emacsmirror/bencode/master/bencode.el"
+     "https://www.emacswiki.org/emacs/download/bencode.el"
+;;;     "https://raw.githubusercontent.com/emacsmirror/bencode/master/bencode.el"
      (concat lisp-storage "bencode.el")))
+(require 'cl)
 
 (add-to-list 'load-path "~/.emacs.d/lisp")
 
