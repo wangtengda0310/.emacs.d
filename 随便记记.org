@@ -9,7 +9,11 @@
    
    http://twister.net.co/
 ** just proxy (chrome plugin)
-   http://goo.gl/0qEKSs
+** http://goo.gl/0qEKSs
+** http://www.dou-bi.com/
+** http://fanqianghou.com/
+   or
+   https://s3.amazonaws.com/fanqianghou/index.html
 
 * 不知道的东西
 ** hash
