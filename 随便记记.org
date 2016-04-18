@@ -28,3 +28,5 @@
 * uml
   https://draw.io
   https://www.websequencediagrams.com/
+  http://yuml.me/
+  http://uml.riaoo.com/
