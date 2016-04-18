@@ -36,6 +36,8 @@
 (defvar java8url "http://docs.oracle.com/javase/8/docs/")
 (defvar javaurl java8url)
 
+(defun opendotemacs () (interactive) (find-file "~/.emacs.d/随便记记.org"))
+(global-set-key "\C-c\C-o" 'opendotemacs)
 
 (ido-mode)
 
