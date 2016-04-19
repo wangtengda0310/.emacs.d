@@ -16,6 +16,8 @@
    https://s3.amazonaws.com/fanqianghou/index.html
 
 * 不知道的东西
+** Data URI scheme
+   Data URI scheme是在RFC2397中定义的
 ** hash
    *MurmurHash* 是一种非加密型哈希函数，适用于一般的哈希检索操作。由Austin Appleby在2008年发明，并出现了多个变种，都已经发布到了公有领域(public domain)。与其它流行的哈希函数相比，对于规律性较强的key，MurmurHash的随机分布特征表现更良好。
    *Merkle Damgard*
