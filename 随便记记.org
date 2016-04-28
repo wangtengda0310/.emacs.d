@@ -16,6 +16,9 @@
    https://s3.amazonaws.com/fanqianghou/index.html
 
 * 不知道的东西
+** AA|BB|CC|DD|DD|EE|FF 要替换第5个|后边的内容 sed 's/[^|]\+/YY/5'
+
+   [[http://zhidao.baidu.com/link?url=nXsZA29OwN0-OHVPTqpeQEjDQYuabbg-pFbgT8GfY_5_yBq4IGcgh7MvzKxtzjUJjHQSbkMmebh4LWlfms4Faq][baidu]]
 ** Data URI scheme
    Data URI scheme是在RFC2397中定义的
 ** hash
