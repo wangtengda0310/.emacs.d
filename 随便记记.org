@@ -77,6 +77,9 @@
    [[http://mycat.io/][mycat分布式mysql中间件]]
 
    [[https://xiaolan.me/obfsproxy.html][使用obfsproxy混淆任意流量]]
+
+   [[http://www.qcloud.com/event/pd][万象优图智能鉴黄]]
+
 * uml
   https://draw.io
 
