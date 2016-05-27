@@ -1,4 +1,5 @@
 * blog
+** http://www.clyce.net/
 ** [[http://evi1cg.me/][一个黑客技术的blog]]
 ** [[http://zhan.renren.com/linuxzhouxin][Linux门徒]]
    投身Linux的海洋，拥抱真正的IT技术，使自己成为一段BOSS代码！
