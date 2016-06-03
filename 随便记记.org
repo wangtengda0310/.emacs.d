@@ -39,6 +39,8 @@
    * 《竹书纪年》首句云：“黄帝轩辕氏，母曰附宝，见大电绕北斗枢星，光照郊野,感而孕。二十五月而生帝于寿丘。”（63）
    * 《史拾·广览·河图始开图》云：“黄帝名轩。北斗，黄帝之精。母地祗之女附宝，之郊野。大电绕斗枢，星耀，感附宝，生轩，胸文曰‘黄帝子’。天地开辟，元历名、月首，甲子；冬首日、月、五星俱起牵牛。”
    * 先秦古籍记黄帝造历谓之《调历》，做法就是“拟宸极以运旋玑，揆天行而序景曜，分辰野，辨躔历。”黄帝造《调历》主要依据木星、太阳和北斗三者之间的关系来定岁；依据晷影和阴阳地气之升降来定月，依据太阳升落来定日。日星同次之月即岁星与日同次之月斗所建之辰为太岁年名，亦是斗所建之辰下有太岁也。所谓仰观俯察，就是把天象与地象综合起来制定历法，并命名为调历法。现代学者认为黄帝造《调历》只是传说，不加以重视，这是妨碍对先秦历法研究进入深一层次的重要原因。观天候气，可以说是黄帝调历法的根基。
+** 春秋末期，老子站在历史的高度对现实社会进行反思，写成了《道德经》一书，标志着道家学派从此诞生。而他的思想传人，有的继承了他批判和超越的精神，形成了老庄学派；有的继承了他贵生重生的思想，形成了杨朱学派；有的继承了他经世致用的理念，形成了黄老学派。
+** 黄帝先秦公认的黄老道家创始人。如儒家的创始人尧舜、墨家的创始人禹。
 * 书
 ** <五行大义>
   
@@ -81,6 +83,11 @@
 
    [[http://www.qcloud.com/event/pd][万象优图智能鉴黄]]
 
+   [[https://bintray.com/]]
+   DISTRIBUTION MADE EASY!
+   Your package hosting and download center infrastructure for automated software distribution
+
+   [[http://rime.im/][rime输入法]]
 * uml
   https://draw.io
 
@@ -91,6 +98,21 @@
   http://uml.riaoo.com/
 * emacs
   [[https://github.com/search?utf8=%E2%9C%93&q=emacs-starter-kit][emacs-starter-kit]]
+
+#+BEGIN_SRC emacs-lisp
+(set-language-environment 'Chinese-GB)
+(set-keyboard-coding-system 'utf-8)
+(set-clipboard-coding-system 'utf-8)
+(set-terminal-coding-system 'utf-8)
+(set-buffer-file-coding-system 'utf-8)
+(set-default-coding-systems 'utf-8)
+(set-selection-coding-system 'utf-8)
+(modify-coding-system-alist 'process "*" 'utf-8)
+(setq default-process-coding-system '(utf-8 . utf-8))
+(setq-default pathname-coding-system 'utf-8)
+(set-file-name-coding-system 'utf-8)
+(setq ansi-color-for-comint-mode t)
+#+END_SRC
 * [[http://blog.sina.com.cn/s/blog_676fb9380100rtqs.html][Web上的linux：用javascript实现虚拟机]]
 * 可能和词语来源相关的东东
 ** 精气神
