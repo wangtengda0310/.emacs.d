@@ -48,3 +48,16 @@
   ["甲" "乙" "丙" "丁" "戊" "己" "庚" "辛" "壬" "癸"])
 (setq chinese-calendar-terrestrial-branch
       ["子" "丑" "寅" "卯" "辰" "巳" "午" "未" "申" "酉" "戌" "亥"])
+
+(global-set-key (kbd "<C-S-return>")
+		(lambda ()
+		  (interactive)
+		  (beginning-of-line)
+		  (open-line 1)
+		  (indent-for-tab-command)))
+(global-set-key (kbd "<S-return>")
+		(lambda ()
+		  (interactive)
+		  (end-of-line)
+		  (newline)
+		  (indent-for-tab-command)))
