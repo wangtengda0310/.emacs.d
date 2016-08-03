@@ -108,6 +108,11 @@
    DISTRIBUTION MADE EASY!
    Your package hosting and download center infrastructure for automated software distribution
 
+   https://jwt.io/
+   JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties.
+
+   JWT.IO allows you to decode, verify and generate JWT.
+
    [[http://rime.im/][rime输入法]]
 
    [[http://www.webhek.com/pathfinding][动画展示计算机迷宫路径各种搜索算法]]
