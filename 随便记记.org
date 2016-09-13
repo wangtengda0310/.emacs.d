@@ -98,6 +98,8 @@
 * 
    [[http://www.tingyun.com/][听云]]
 
+   [[https://1024tools.com/][1024程序员开发工具箱 1024tools.com]]
+
    [[http://mycat.io/][mycat分布式mysql中间件]]
 
    [[https://xiaolan.me/obfsproxy.html][使用obfsproxy混淆任意流量]]
@@ -124,6 +126,8 @@
    [[http://www.tutorialspoint.com/][一个学东西的网址]]
 
    [[http://www.kepu.net.cn/][中国科普博览]]
+
+   [[http://www.pdtools.net][程序员开发工具网]]
 
 * 代码版本历史可视化
 ** [[http://ghv.artzub.com/][看github的]]
