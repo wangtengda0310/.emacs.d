@@ -164,6 +164,12 @@
 (set-file-name-coding-system 'utf-8)
 (setq ansi-color-for-comint-mode t)
 #+END_SRC
+**  emacs里 replace-regexp
+***  用到的几个符号是什么意思: \,
+****  \# 出现的位置(第几个出现的) 解析成表达式(replace-count)
+****  \#& 解析成表达式(string-to-number ...)
+****  \& 匹配到的字符串 解析成表达式(match-string)
+***  匹配网址的正则http://\S-+ 减号 加号什么意思
 * [[http://blog.sina.com.cn/s/blog_676fb9380100rtqs.html][Web上的linux：用javascript实现虚拟机]]
 * 可能和词语来源相关的东东
 ** 精气神
@@ -186,4 +192,7 @@
   * 类库适配
 * java
   java enum 构造方法只能private?
+  [[http://jzhihui.iteye.com/blog/1271122][影响java创建线程数量的设置]]
+  [[http://www.cnblogs.com/zengkefu/p/5649407.html][ulimit 命令 并发相关]]
+  java无序写返回的未调用构造器的对象引用对没个线程是同一个吗？一个线程获得了没初始化好的引用，等另一个线程调用了构造对象后，这个线程的对象是不是可以直接用了？
 * 做个指纹密码管理app
