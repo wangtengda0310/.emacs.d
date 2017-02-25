@@ -18,9 +18,12 @@
      "https://www.emacswiki.org/emacs/download/bencode.el"
 ;;;     "https://raw.githubusercontent.com/emacsmirror/bencode/master/bencode.el"
      (concat lisp-storage "bencode.el")))
+
+
 (require 'cl)
 
 (add-to-list 'load-path "~/.emacs.d/lisp")
+
 
 ;https://www.emacswiki.org/emacs/ParEdit
 (autoload 'enable-paredit-mode "paredit-beta.el"
@@ -38,10 +41,15 @@
 
 (defun opendotemacs () (interactive) (find-file "~/.emacs.d/随便记记.org"))
 (global-set-key "\C-c\C-o" 'opendotemacs)
+(global-set-key "\M-p" 'scroll-up-line)
+(global-set-key "\M-n" 'scroll-down-line)
 
 (ido-mode)
+(add-hook 'after-init-hook (lambda () (nyan-mode)))
+
 
 (show-paren-mode)
+(global-hl-line-mode)
 
 ;; 设置阴历显示，在 calendar 上用 pC 显示阴历
 (setq chinese-calendar-celestial-stem
