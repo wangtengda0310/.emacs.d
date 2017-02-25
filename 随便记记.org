@@ -4,6 +4,7 @@
 ** [[http://zhan.renren.com/linuxzhouxin][Linux门徒]]
    投身Linux的海洋，拥抱真正的IT技术，使自己成为一段BOSS代码！
 ** [[http://calvin1978.blogcn.com/][花钱的年华]]
+* [[http://www.iteye.com/topic/770032][mysql链接url中的rewriteBatchedStatements参数]]
 * great fire wall
 ** twister
    http://twisterio.com
