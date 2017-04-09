@@ -1,4 +1,5 @@
 * blog
+** [[http://www.matrix67.com/blog/][Matrix67: The Aha Moments]]
 ** http://www.clyce.net/
 ** [[http://evi1cg.me/][一个黑客技术的blog]]
 ** [[http://zhan.renren.com/linuxzhouxin][Linux门徒]]
