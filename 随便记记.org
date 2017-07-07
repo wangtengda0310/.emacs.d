@@ -204,6 +204,8 @@
 * js
   [[http://ramda.cn/][Ramda 中文]] 一款实用的 JavaScript 函数式编程库。
   [[https://cn.vuejs.org/][Vue.js]] 渐进式JavaScript 框架
+* lisp
+  [[http://www.lambdanative.org/][移动设备上的scheme]] Practical Functional Programming.It's never been easier to deploy high-quality code on mobile and embedded targets
 * java
   java enum 构造方法只能private?
   [[http://jzhihui.iteye.com/blog/1271122][影响java创建线程数量的设置]]
