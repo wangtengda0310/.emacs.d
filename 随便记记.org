@@ -98,7 +98,12 @@
   丁壬壬位顺行流，——逢年干是丁或壬的年份，正月的月干从壬上起。
   更有戊癸何方觅，甲寅之上好追求。——逢年干是戊或癸的年份，正月的月干从甲上起。
 * 干支纪月是干支历的一部分，主要用于风水、术数等领域中，这使得干支历一直在官方和民间都流行不衰。而事实上”正月建寅”是与北斗七星在地球上所观察的周年运动有关，与地球环绕太阳一周期的时间相同
-* 
+*
+   http://qrenco.de/
+   #+BEGIN_SRC shell
+   printf "asciinema rocks!" | curl -F-=\<- qrenco.de
+   #+END_SRC
+
    [[https://www.zoomeye.org/][ZoomEye | 钟馗之眼 - 网络空间搜索引擎]]
 
    [[https://www.shodan.io/][SHODAN - Computer Search Engine]] Shodan is the world's first search engine for Internet-connected devices.
