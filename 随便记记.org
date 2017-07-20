@@ -19,6 +19,14 @@
    https://s3.amazonaws.com/fanqianghou/index.html
 ** aixyz
 ** [[http://www.aboutyun.com/thread-11395-1-1.html][让你真正明白Linux NTP（包括历史、参数解释、安装配置）]]
+* 镜像
+** http://maven.aliyun.com/nexus/content/groups/public/
+** https://mirrors.tuna.tsinghua.edu.cn/
+** http://mirrors.aliyun.com/
+** http://www.opencas.org/mirrors/
+** http://mirrors.neusoft.edu.cn/
+** [[https://www.douban.com/note/517555410/][其他]]
+
 * 六爻相关
 ** [[http://www.360doc.com/content/15/0620/23/25024905_479486344.shtml][六十四卦世应六亲简单记忆法]]
    第一首先记口诀：
