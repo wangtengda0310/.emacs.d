@@ -174,7 +174,8 @@
 
 * emacs
   [[https://github.com/search?utf8=%E2%9C%93&q=emacs-starter-kit][emacs-starter-kit]]
-
+* windows 包管理器
+  [[https://h404bi.com/blog/2018/05/12/talk-about-scoop-the-package-manager-for-windows-again.html][再谈谈 Scoop 这个 Windows 下的软件包管理器]]
 #+BEGIN_SRC emacs-lisp
 (set-language-environment 'Chinese-GB)
 (set-keyboard-coding-system 'utf-8)
