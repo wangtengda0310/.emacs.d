@@ -230,4 +230,5 @@
   [[http://jzhihui.iteye.com/blog/1271122][影响java创建线程数量的设置]]
   [[http://www.cnblogs.com/zengkefu/p/5649407.html][ulimit 命令 并发相关]]
   java无序写返回的未调用构造器的对象引用对没个线程是同一个吗？一个线程获得了没初始化好的引用，等另一个线程调用了构造对象后，这个线程的对象是不是可以直接用了？
+  Dynamic Proxy 的一个作用是阻止类型转换[[https://www.ibm.com/developerworks/library/j-jtp08305/index.html][The dynamic proxy mechanism]]
 * 做个指纹密码管理app
