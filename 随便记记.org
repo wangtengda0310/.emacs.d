@@ -148,6 +148,8 @@
    [[http://www.kepu.net.cn/][中国科普博览]]
 
    [[http://www.pdtools.net][程序员开发工具网]]
+   
+   [[http://octave-online.net/][推举一个在线matlab(octave)]]
 
 * 代码版本历史可视化
 ** [[http://ghv.artzub.com/][看github的]]
