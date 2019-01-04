@@ -151,6 +151,9 @@
    
    [[http://octave-online.net/][推举一个在线matlab(octave)]]
 
+   [[https://love2.io/][电子书]]
+   Love2.io 是一个全新的开源技术文档分享平台，我们致力于提供用户更优雅的阅读和写作体验。技术改变世界，用文档传播。
+
 * 代码版本历史可视化
 ** [[http://ghv.artzub.com/][看github的]]
 ** http://gource.io/
