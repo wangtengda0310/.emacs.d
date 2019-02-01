@@ -227,6 +227,7 @@
   * 类库适配
 * [[http://www.cnki.net/][中国知网]]
 * [[https://frontendmasters.com/][国外的一个前端教程网站]]
+* https://www.mailgun.com/
 * js
   [[http://ramda.cn/][Ramda 中文]] 一款实用的 JavaScript 函数式编程库。
   [[https://cn.vuejs.org/][Vue.js]] 渐进式JavaScript 框架
